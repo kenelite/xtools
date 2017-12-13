@@ -1,17 +1,20 @@
-﻿# Frequently used software on OSX
+# Frequently used software on OSX
 
 
 # Toolkits
 ## [Brew](https://brew.sh/)
 The missing package manager for macOS.
 
-`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
 
 ## [GNU Command Line Tools](http://www.gnu.org/)
 GNU is an operating system that is free software—that is, it respects users' freedom. The development of GNU made it possible to use a computer without software that would trample your freedom.
 
 
-`brew install coreutils
+```
+brew install coreutils
 
 brew install binutils
 
@@ -44,35 +47,46 @@ brew install watch
 brew install wdiff --with-gettext
 
 brew install wget
-`
+```
 
-`echo 'PATH="/usr/local/opt/coreutils/libexec/gnubin:/usr/local/bin:/usr/local/sbin:$PATH"' >> ~/.bashrc
+
+```
+echo 'PATH="/usr/local/opt/coreutils/libexec/gnubin:/usr/local/bin:/usr/local/sbin:$PATH"' >> ~/.bashrc 
 
 echo 'export PATH' >> ~/.bashrc
-`
+```
 
 ## [fish](http://fish.sh/)
 fish is a smart and user-friendly command line
 shell for macOS, Linux, and the rest of the family. 
 
-`brew install fish`
+```
+brew install fish
+```
 
 
 ## [nmap](https://nmap.org/)
 Nmap ("Network Mapper") is a free and open source (license) utility for network discovery and security auditing. 
 
-`brew install nmap`
+```
+brew install nmap
+```
 
 
 ## [iTerm2](https://iterm2.com)
 iTerm2 is a terminal emulator for macOS that does amazing things.
 
-`brew cask install iterm2`
+
+```
+brew cask install iterm2
+```
 
 ## [macdown](https://macdown.uranusjr.com/)
 The open source Markdown editor for macOS.
 
-`brew cask install macdown`
+```
+brew cask install macdown
+```
 
 ## [Sublime Text 3](https://www.sublimetext.com/)
 A sophisticated text editor for code, markup and prose.
@@ -82,7 +96,9 @@ Download from the homepage.
 ## [Keka](http://www.kekaosx.com/en/)
 Free Mac OS X file archiver with the main compression core p7zip.
 
-`brew cask install keka`
+```
+brew cask install keka
+```
 
 ## [GitHub Desktop](https://desktop.github.com)
 The new native Extend your GitHub workflow beyond your browser with GitHub Desktop, completely redesigned with Electron.
@@ -150,7 +166,9 @@ Download from Appstore.
 ## [iina](https://lhc70000.github.io/iina/)
 The modern video player for macOS. 
 
-`brew cask install iina`
+```
+brew cask install iina
+```
 
 ## [NeteaseMusic](http://music.163.com/)
 NetEase Music is a music and video streaming service developed and operated by NetEase, Inc.

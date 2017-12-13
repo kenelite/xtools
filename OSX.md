@@ -121,10 +121,16 @@ Google Chrome is a fast, secure, and free web browser, built for the modern web.
 
 Download from the homepage.
 
+### Plugins
+Tampermonkey
+
 ## [Firefox](https://www.mozilla.org/en-US/firefox/)
 Mozilla Firefox (or simply Firefox) is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary the Mozilla Corporation.
 
 Download from the homepage.
+
+### Plugins
+Tampermonkey
 
 
 ## [VMware Fusion / Pro](https://www.vmware.com/products/fusion.html)
@@ -150,6 +156,26 @@ Download from Appstore.
 
 ## [VitalSource Bookshelf](https://bookshelf.vitalsource.com/)
 Use VitalSource Bookshelf to download and access VitalSource eTextbooks on your Kindle.
+
+Download from the homepage.
+
+
+# developer
+## [Python](https://python.org/)
+Python is a widely used high-level programming language for general-purpose programming, created by Guido van Rossum and first released in 1991. An interpreted language, Python has a design philosophy that emphasizes code readability, and a syntax that allows programmers to express concepts in fewer lines of code than might be used in languages such as C++ or Java. It provides constructs that enable clear programming on both small and large scales.
+
+```
+brew install python3
+```
+
+## [Go](https://golang.org)
+Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
+
+```
+brew install  golang
+```
+## [PyCharm](https://www.jetbrains.com/pycharm/)
+PyCharm is an Integrated Development Environment (IDE) used in computer programming, specifically for the Python language. 
 
 Download from the homepage.
 

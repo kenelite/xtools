@@ -34,6 +34,7 @@ brew install wget
 brew install xz
 ```
 
+Modify user PATH
 
 ```
 echo 'PATH="/usr/local/opt/coreutils/libexec/gnubin:/usr/local/bin:/usr/local/sbin:$PATH"' >> ~/.bashrc 
@@ -82,6 +83,55 @@ Free Mac OS X file archiver with the main compression core p7zip.
 
 ```
 brew cask install keka
+```
+
+## [GnuPG](https://www.gnupg.org/)
+GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP). 
+
+```
+brew install gpg
+```
+
+## [fio](https://github.com/axboe/fio)
+Fio was written by Jens Axboe <axboe@kernel.dk> to enable flexible testing of the Linux I/O subsystem and schedulers.
+
+```
+brew install fio
+```
+
+## [Cdrtools](http://cdrtools.sourceforge.net/private/cdrecord.html)
+Cdrtools is a set of command line programs that allows to record CD/DVD/BluRay media. 
+
+```
+brew install cdrtools
+```
+
+## [qemu](https://wiki.qemu.org/Main_Page)
+QEMU is a generic and open source machine emulator and virtualizer.  
+
+```
+brew install qemu
+```
+
+## [aria2](https://aria2.github.io/)
+aria2 is a lightweight multi-protocol & multi-source command-line download utility. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
+```
+brew install aria2
+```
+
+## [pv](https://www.ivarch.com/programs/pv.shtml)
+pv - Pipe Viewer - is a terminal-based tool for monitoring the progress of data through a pipeline. 
+
+```
+brew install pv
+```
+
+## [jq](https://stedolan.github.io/jq/)
+jq is a lightweight and flexible command-line JSON processor.
+
+```
+brew install jq
 ```
 
 ## [GitHub Desktop](https://desktop.github.com)
@@ -217,6 +267,5 @@ Mounty uses Apple's Notification Center to issue notification whenever a NTFS vo
 ```
 brew install mounty
 ```
-
 
 

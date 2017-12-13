@@ -15,44 +15,28 @@ GNU is an operating system that is free software—that is, it respects users' f
 
 ```
 brew install coreutils
-
 brew install binutils
-
 brew install diffutils
-
 brew install ed --with-default-names
-
 brew install findutils --with-default-names
-
 brew install gawk
-
 brew install gnu-indent --with-default-names
-
 brew install gnu-sed --with-default-names
-
 brew install gnu-tar --with-default-names
-
 brew install gnu-which --with-default-names
-
 brew install gnutls
-
 brew install grep --with-default-names
-
 brew install gzip
-
 brew install screen
-
 brew install watch
-
 brew install wdiff --with-gettext
-
 brew install wget
+brew install xz
 ```
 
 
 ```
 echo 'PATH="/usr/local/opt/coreutils/libexec/gnubin:/usr/local/bin:/usr/local/sbin:$PATH"' >> ~/.bashrc 
-
 echo 'export PATH' >> ~/.bashrc
 ```
 
@@ -153,6 +137,21 @@ As an English, Japanese, Korean, French free universal search word translation s
 
 Download from Appstore.
 
+## [LuckNews](http://lucknewsapp.blogspot.com)
+LuckNews is a fully featured, easy to use news reader for your Mac. 
+
+Download from Appstore.
+
+
+## [Kindle]()
+The Kindle app gives users the ability to read eBooks on a beautiful, easy-to-use interface.
+
+Download from Appstore.
+
+## [VitalSource Bookshelf](https://bookshelf.vitalsource.com/)
+Use VitalSource Bookshelf to download and access VitalSource eTextbooks on your Kindle.
+
+Download from the homepage.
 
 # IM
 
@@ -176,12 +175,22 @@ NetEase Music is a music and video streaming service developed and operated by N
 Download from the homepage.
 
 
-## [LuckNews](http://lucknewsapp.blogspot.com)
-LuckNews is a fully featured, easy to use news reader for your Mac. 
-
-Download from Appstore.
+# Accessiblity
 
 
+## [Spectacle](https://www.spectacleapp.com/)
+Window control with simple and customizable keyboard shortcuts.
+
+```
+brew cask install spectacle
+```
+
+## [Mounty](http://enjoygineering.com/mounty/)
+Mounty uses Apple's Notification Center to issue notification whenever a NTFS volume to re-mount is detected.
+
+```
+brew install mounty
+```
 
 
 

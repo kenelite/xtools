@@ -61,6 +61,12 @@ brew install nmap
 ## [iTerm2](https://iterm2.com)
 iTerm2 is a terminal emulator for macOS that does amazing things.
 
+iTerm2 Color Schemes
+https://github.com/mbadolato/iTerm2-Color-Schemes
+
+
+> FirefoxDev
+
 
 ```
 brew cask install iterm2

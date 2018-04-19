@@ -1,4 +1,4 @@
-# Frequently used software on OSX
+# Frequently used software on macOS
 
 
 # Toolkits
@@ -118,6 +118,14 @@ QEMU is a generic and open source machine emulator and virtualizer.
 ```
 brew install qemu
 ```
+
+## [autojump](https://github.com/wting/autojump)
+autojump is a faster way to navigate your filesystem. It works by maintaining a database of the directories you use the most from the command line.
+
+```
+brew install autojump
+```
+
 
 ## [aria2](https://aria2.github.io/)
 aria2 is a lightweight multi-protocol & multi-source command-line download utility. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.

@@ -147,6 +147,12 @@ jq is a lightweight and flexible command-line JSON processor.
 ```
 brew install jq
 ```
+## [autossh](http://macappstore.org/autossh/)
+AutoSSH is a command that detects when SSH connections drop and automatically reconnects them.
+
+```
+brew install autossh
+```
 
 ## [GitHub Desktop](https://desktop.github.com)
 The new native Extend your GitHub workflow beyond your browser with GitHub Desktop, completely redesigned with Electron.

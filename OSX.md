@@ -244,6 +244,23 @@ Go is an open source programming language that makes it easy to build simple, re
 ```
 brew install  golang
 ```
+## [Ruby](https://www.ruby-lang.org/en/)
+A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
+
+```
+brew install  ruby
+echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.zshrc
+```
+
+## [JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+Oracle JDK is Oracle's supported Java SE version for customers and for developing, testing, prototyping or demonstrating your Java applications.
+
+```
+brew cask install java8
+echo 'export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home"' >> ~/.zshrc
+
+```
+
 ## [PyCharm](https://www.jetbrains.com/pycharm/)
 PyCharm is an Integrated Development Environment (IDE) used in computer programming, specifically for the Python language. 
 

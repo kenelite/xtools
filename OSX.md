@@ -278,7 +278,7 @@ Download from Appstore.
 ## [Splayer](http://www.splayer.org/)
 A Modern Media Player with Smart Translation.
 
-https://github.com/chiflix/splayerx/releases
+Download from Mac App Store or [github](https://github.com/chiflix/splayerx/releases)
 
 ## [NeteaseMusic](http://music.163.com/)
 NetEase Music is a music and video streaming service developed and operated by NetEase, Inc.
